@@ -1,0 +1,3 @@
+void threadTask();
+
+void funcThread();
